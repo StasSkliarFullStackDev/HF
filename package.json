@@ -9,7 +9,7 @@
         "@material-ui/lab": "^4.0.0-alpha.60",
         "@material-ui/pickers": "^3.3.10",
         "@reduxjs/toolkit": "^1.6.1",
-        "@types/react-dom": "^17.0.9",
+        "@types/react-dom": "^17.0.26",
         "@types/react-router-dom": "^5.1.8",
         "axios": "^0.21.1",
         "cra-template-redux-typescript": "1.0.2",
